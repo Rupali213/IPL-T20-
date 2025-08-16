@@ -21,11 +21,6 @@ It covers all seasons from 2008 to 2025 with season-wise insights on:
 ## 🔹 Screenshots
 Check Screenshot dashboard images in this repo
 
-## 🔹 How to Use
-1. Download the `.pbix` file from this repo  
-2. Open it in Power BI Desktop  
-3. Explore the interactive visuals by selecting seasons  
-
 ## 🔹 About
 This project is designed for cricket lovers who enjoy exploring the game through the lens of data.
 
