@@ -1,6 +1,4 @@
-# IPL-T20
-Power BI dashboard analyzing IPL (2008–2025) – champions, caps, team stats &amp; season insights.
-# IPL Analysis Dashboard (2008–2025)
+# IPL T20 Analysis Dashboard (2008–2025)
 
 🏏 This project presents an **IPL (Indian Premier League) analysis dashboard** built using **Power BI**.  
 It covers all seasons from 2008 to 2025 with season-wise insights on:
